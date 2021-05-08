@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCompresser", "ImageCompresser.csproj", "{8839342E-5B3E-4788-8C70-5EB722CD72F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8839342E-5B3E-4788-8C70-5EB722CD72F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8839342E-5B3E-4788-8C70-5EB722CD72F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8839342E-5B3E-4788-8C70-5EB722CD72F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8839342E-5B3E-4788-8C70-5EB722CD72F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1213E51-F94B-4C62-B606-FA9438DDA096}
+	EndGlobalSection
+EndGlobal
